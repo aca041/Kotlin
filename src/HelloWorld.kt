@@ -5,4 +5,10 @@ fun main (args: Array<String>){
     println(str)
     println("$str Brey! #$age")
 
+    if (age+1 == 41) {
+        println(41)
+    }else {
+        println("Not 41")
+    }
+
 }
