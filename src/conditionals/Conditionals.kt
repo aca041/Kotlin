@@ -11,6 +11,5 @@ fun main (args: Array<String>){
     }else {
         println("you are good to go")
     }
-
 println("end")
 }
